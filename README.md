@@ -73,5 +73,5 @@ Tecnologías: Python, Java, Spring Boot, JavaScript, HTML, CSS, SQL y Git.
 
 ## Contacto
 
-- LinkedIn: linkedin.com/in/samuelshenriquezp/
+- LinkedIn: https://www.linkedin.com/in/samuelshenriquezp/
 - Email: samuelshenriquezp@gmail.com
