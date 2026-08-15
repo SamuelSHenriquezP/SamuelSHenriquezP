@@ -1,16 +1,47 @@
-## Hi there 👋
+# Samuel Santos Henriquez Padilla
 
-<!--
-**SamuelSHenriquezP/SamuelSHenriquezP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Python • Java • Flutter
 
-Here are some ideas to get you started:
+Desarrollador de software con experiencia en el desarrollo de aplicaciones móviles y web, integración de bases de datos y construcción de soluciones orientadas a necesidades reales de negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa desarrollar software funcional, escalable y mantenible, participando en las diferentes etapas del ciclo de desarrollo: análisis, arquitectura, implementación, pruebas y mejora continua.
+
+## Tecnologías
+
+- Python
+- Java
+- Dart / Flutter
+- JavaScript
+- HTML / CSS
+- SQL
+- MongoDB
+- Firebase
+- Spring Boot
+- Git / GitHub
+
+## Áreas de interés
+
+- Desarrollo de aplicaciones móviles
+- Desarrollo web
+- Backend
+- Bases de datos
+- Integración de servicios
+- Ingeniería de software
+
+## Proyectos destacados
+
+### Servintel Operarios
+Aplicación multiplataforma desarrollada con Flutter y Firebase para la gestión de servicios técnicos, clientes y operarios.
+
+Incluye autenticación, gestión de roles, reportes técnicos, geolocalización y funcionalidades orientadas a la gestión del servicio.
+
+### Sistema de gestión y administración
+Proyecto orientado a la gestión de información y procesos administrativos mediante aplicaciones web y backend.
+
+### Proyectos académicos y de desarrollo
+Participación en proyectos de software que abarcan análisis, diseño, desarrollo, bases de datos, pruebas y control de versiones.
+
+## Contacto
+
+- LinkedIn: linkedin.com/in/samuelshenriquezp/
+- Email: samuelshenriquezp@gmail.com
