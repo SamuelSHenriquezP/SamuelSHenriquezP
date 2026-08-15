@@ -31,15 +31,45 @@ Me interesa desarrollar software funcional, escalable y mantenible, participando
 ## Proyectos destacados
 
 ### Servintel Operarios
-Aplicación multiplataforma desarrollada con Flutter y Firebase para la gestión de servicios técnicos, clientes y operarios.
 
-Incluye autenticación, gestión de roles, reportes técnicos, geolocalización y funcionalidades orientadas a la gestión del servicio.
+Aplicación multiplataforma desarrollada con Flutter y Firebase para la gestión de servicios técnicos, clientes y operadores.
+
+- Autenticación y gestión de roles.
+- Registro y seguimiento de trabajos técnicos.
+- Elaboración de reportes técnicos.
+- Geolocalización para validar la ubicación del operador.
+- Gestión de clientes y calificaciones.
+- Arquitectura organizada por funcionalidades.
+- Compatibilidad con Android, iOS y web.
+
+Tecnologías: Flutter, Dart, Firebase, Firestore.
 
 ### Sistema de gestión y administración
-Proyecto orientado a la gestión de información y procesos administrativos mediante aplicaciones web y backend.
 
-### Proyectos académicos y de desarrollo
-Participación en proyectos de software que abarcan análisis, diseño, desarrollo, bases de datos, pruebas y control de versiones.
+Sistema desarrollado para digitalizar procesos relacionados con la gestión de servicios técnicos, clientes, operadores y equipos.
+
+- Gestión de información y usuarios.
+- Automatización de procesos administrativos.
+- Registro y seguimiento de servicios.
+- Manejo de información mediante bases de datos.
+- Desarrollo de interfaces y lógica de negocio.
+
+Tecnologías: Python, Java, SQL, JavaScript, HTML, CSS y Spring Boot.
+
+### Proyecto de aula — Ingeniería de Software
+
+Participación durante cinco semestres en el desarrollo de un proyecto de software utilizando metodologías ágiles.
+
+- Diseño y modelado de arquitectura mediante UML.
+- Elaboración de casos de uso y diagramas.
+- Desarrollo de módulos y lógica de negocio.
+- Diseño de interfaces web.
+- Integración con bases de datos.
+- Control de versiones con Git y GitHub.
+- Pruebas unitarias y funcionales.
+- Revisión y mantenimiento del código.
+
+Tecnologías: Python, Java, Spring Boot, JavaScript, HTML, CSS, SQL y Git.
 
 ## Contacto
 
