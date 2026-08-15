@@ -58,7 +58,7 @@ Tecnologías: Python, Java, SQL, JavaScript, HTML, CSS y Spring Boot.
 
 ### Proyecto de aula — Ingeniería de Software
 
-Participación durante cinco semestres en el desarrollo de un proyecto de software utilizando metodologías ágiles.
+Participación durante seis semestres en el desarrollo de un proyecto de software utilizando metodologías ágiles.
 
 - Diseño y modelado de arquitectura mediante UML.
 - Elaboración de casos de uso y diagramas.
